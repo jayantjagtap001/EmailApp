@@ -1,0 +1,77 @@
+.window1 {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .verti {
+    width: 56px;
+    height: 760px;
+    padding: 0px 4px;
+    background: #101113;
+    border-right: 1px solid #343a40;
+  }
+  
+  .v1 img {
+    width: 48px;
+    height: 48px;
+  }
+  
+  .inboxx {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  
+  .s {
+    flex-grow: 1;
+  }
+  
+  .hory {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #1f1f1f;
+    padding: 0 24px;
+  }
+  
+  .Oneboxn {
+    font-size: 16px;
+    font-weight: 700;
+    color: #ffffff;
+  }
+  
+  .darkmodebox {
+    display: flex;
+    gap: 22px;
+  }
+  
+  .dfbox2 {
+    width: 18px;
+    height: 18px;
+  }
+  
+  .bigbox {
+    background: #000000;
+    flex-grow: 1;
+  }
+  
+  .bb1 {
+    border: 2.61px solid;
+    border-image-source: linear-gradient(130.91deg, #94bfff 2.57%, #4c94fe 149.14%);
+  }
+  
+  .ttt1 {
+    font-family: 'DM Sans';
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  .ttt2 {
+    font-family: 'DM Sans';
+    font-size: 18px;
+    text-align: center;
+    color: #9e9e9e;
+  }
+  
